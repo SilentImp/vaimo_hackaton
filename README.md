@@ -40,7 +40,7 @@ And check work of notifications this way.
 
 ## Keep server running
 
-On Linux you may just create init script 
+On Linux you may just create init script /etc/init/socket.conf
 
 
     # Info
