@@ -28,7 +28,7 @@ You should edit `./source/js/app.js` and change web socket uri in the `new Trans
 
 ## Run client side
 
-   $ open ./build/index.html
+    $ open ./build/index.html
 
 
 [1]: https://nodejs.org/
