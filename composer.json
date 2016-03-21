@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-0": {
+            "TransportServer": "src"
+        },
+        "psr-4": {
+            "WebSocket\\": "src"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "^0.3.4",
+        "textalk/websocket": "^1.2"
+    }
+}
